@@ -1,0 +1,9 @@
+torch==2.11.*
+transformers==5.20.*
+scikit-learn==1.6.1
+statsmodels
+scipy
+pandas
+numpy
+matplotlib
+openpyxl
